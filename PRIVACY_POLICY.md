@@ -2,7 +2,7 @@
 
 Welcome to the Приказ N782н app for Android!
 
-This is an open source Android app developed by Ivan Bogachenko. The app is available on Google Play.
+This is an Android app developed by Ivan Bogachenko. The app is available on Google Play.
 
 As an avid Android user myself, I take privacy very seriously.
 I know how irritating it is when apps collect your data without your knowledge.
