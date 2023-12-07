@@ -1,15 +1,29 @@
-## Приказ N782н: Privacy policy
+## ПОТЭЭ-903н-2022: Privacy policy
 
-Welcome to the Приказ N782н app for Android!
+Welcome to the ПОТЭЭ-903н-2022 app for Android!
 
-This is an Android app developed by Bogachenko Ivan. The app is available on Google Play.
+This Android app is developed by Bogachenko Ivan and is available on Google Play.
 
-As an avid Android user myself, I take privacy very seriously.
-I know how irritating it is when apps collect your data without your knowledge.
+Government Information:
+This app does not have any affiliation or authorization to facilitate government services. The information provided within the app is not sourced from government entities.
 
-I have not programmed this app to collect any personally identifiable information. All data (app preferences (like theme, etc.)) created by the you is stored on your device only, and can be simply erased by clearing the app's data or uninstalling it.
+Source of Information:
+All information presented in this app is independently sourced and does not claim to represent official government content.
 
-If you find any security vulnerability that has been inadvertently caused by me, or have any question regarding how the app protectes your privacy, please send me an email and I will surely try to fix it/help you.
+User Privacy:
+As the developer, I prioritize user privacy. The app is not designed to collect personally identifiable information. Any data created by you, such as app preferences (themes, etc.), is stored solely on your device. You can easily delete this data by clearing the app's data or uninstalling it.
+
+Security Vulnerabilities:
+If you discover any security vulnerabilities caused by the app or have questions about how your privacy is protected, please contact me via email. I am committed to addressing and resolving any concerns promptly.
+
+Disclaimer:
+This app does not represent a government entity. It is an independent application developed by Bogachenko Ivan for to study the rules of safe operation of electrical installations. Users should be aware that the app is not affiliated with any government organization.
+
+If you have any questions or concerns about this privacy policy, please contact me at bogachenkoivan@gmail.com.
+
+Thank you for using the ПОТЭЭ-903н-2022 app!
+
+
 
 Yours sincerely,  
 Bogachenko Ivan.  
